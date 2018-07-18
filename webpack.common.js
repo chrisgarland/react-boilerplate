@@ -34,10 +34,5 @@ module.exports = {
 			template: 'index.html'
 		}),
 		new CleanWebpackPlugin(['dist'])
-	],
-	devServer: {
-		host: 'localhost',
-		port: 8181,
-		open: true,
-	}
+	]
 };
