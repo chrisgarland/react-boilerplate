@@ -1,6 +1,6 @@
 # React Boilerplate
 Description...
 
-- ## Instructions
+## Instructions
 - `npm install`<br/>
 - `npm start`
