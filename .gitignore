@@ -6,3 +6,5 @@ dist/
 
 # IDE
 .idea/
+*.iml
+package-lock.json
